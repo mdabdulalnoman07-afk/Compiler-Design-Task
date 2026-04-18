@@ -6,20 +6,19 @@ Given the sample input:
 `
 
 Output:
-`
-IDENTIFIER: This
-IDENTIFIER: is
-IDENTIFIER: a
-KEYWORD: int
-IDENTIFIER: sum
-OPERATOR: =
-IDENTIFIER: a
-OPERATOR: +
-IDENTIFIER: b
-OPERATOR: =
-INT: 20
-SYMBOL: ;
-`
+
+- IDENTIFIER: This
+- IDENTIFIER: is
+- IDENTIFIER: a
+- KEYWORD: int
+- IDENTIFIER: sum
+- OPERATOR: =
+- IDENTIFIER: a
+- OPERATOR: +
+- IDENTIFIER: b
+- OPERATOR: =
+- INT: 20
+- SYMBOL: ;
 
 ---
 
